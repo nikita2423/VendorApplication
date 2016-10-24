@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VendorApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="locationTxt">Continuous Location Update</string>
+</resources>
